@@ -1,0 +1,21 @@
+/ -> page d'accueil,
+
+# page de connexion - inscription
+
+/login -> page de connexion,
+/register -> inscription,
+/logout -> déconnexion,
+
+# page d'écriture
+
+/ projects -> page de tous les projets
+/projects/add -> ajouter un projet 
+/projects/id/uptdate -> mettre à jour le projet 
+/projects/id -> page de résumé du projet 
+/projects/id/export -> page d'exportation du projet
+
+# page de profil
+
+/profil -> afficher ses informations 
+/profil/param -> afficher les paramètres de compte
+/profil/param/uptdate -> modifier les paramètres du compte
